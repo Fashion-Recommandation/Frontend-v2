@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'IRANSANS';
+  src: url('./assets/fonts/iransansx/IRANSansXRegular.ttf');
+
+  /* Adjust the path as necessary */
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  font-family: 'IRANSANS';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+p,
+strong,
+b,
+div,
+h1,
+h2,
+h3 {
+  font-family: 'IRANSANS';
+}

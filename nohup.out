@@ -1,0 +1,50 @@
+
+> clothmatcher-frontend@0.1.0 start
+> PORT=80 react-scripts start
+
+(node:96236) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(node:96236) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view clothmatcher-frontend in the browser.
+
+  http://localhost:80
+
+Note that the development build is not optimized.
+To create a production build, use yarn build.
+
+webpack compiled successfully
+npm ERR! path /root/FashionNew/Frontend
+npm ERR! command failed
+npm ERR! signal SIGHUP
+npm ERR! command sh -c PORT=80 react-scripts start
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2024-06-19T16_20_21_461Z-debug-0.log
+
+> clothmatcher-frontend@0.1.0 start
+> PORT=80 react-scripts start
+
+(node:97410) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(node:97410) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view clothmatcher-frontend in the browser.
+
+  http://localhost:80
+
+Note that the development build is not optimized.
+To create a production build, use yarn build.
+
+webpack compiled successfully
+npm ERR! path /root/FashionNew/Frontend
+npm ERR! command failed
+npm ERR! signal SIGHUP
+npm ERR! command sh -c PORT=80 react-scripts start
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2024-06-19T18_24_31_279Z-debug-0.log
